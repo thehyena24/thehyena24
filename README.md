@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thehyena24
-- I'm currently a first-year university student, studying computer science
+- I'm currently a second-year university student, studying computer science
 - Still getting started, and trying to find out what interests me.
 
 <!---
